@@ -1,0 +1,10 @@
+.box{
+    margin: 0px 0px 0px 200px;
+    padding: 2px 2px 2px 2px;
+    background-color: white;
+    border-radius: 0px 0px 10px 10px ;
+    width: 78px;
+}
+body{
+    background-color: aquamarine;
+}
